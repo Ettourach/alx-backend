@@ -1,0 +1,25 @@
+# English translations for 0x02. i18n.
+# Copyright (C) 2024 ALX_africa.
+# This file is distributed under the same license as the 0x02. i18n project.
+# FIRST AUTHOR <ettourach@gmaol.com>, 2024.
+#
+#, fuzzy
+msgid "home_title"
+msgstr "Welcome to Holberton"
+msgid "home_header"
+msgstr "Hello world!"
+msgid "current_time_is"
+msgstr "The current time is %(current_time)s."
+"Project-Id-Version: 0x02. i18n Backend\n"
+"Report-Msgid-Bugs-To:ettourach@gmail.com\n"
+"POT-Creation-Date: 2024-11-06 00:35+0000\n"
+"PO-Revision-Date: 2024-11-06 00:35+0000\n"
+"Last-Translator: Ettourach Ilyas <ettourach@gmail.com>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
